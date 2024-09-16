@@ -3,7 +3,6 @@ window.$docsify = {
     name: '知识分享库',
     homepage: 'index.md',
     repo: 'thcpdd',
-    routerMode: 'history',
     loadSidebar: true,
     subMaxLevel: 7,  // 自定义侧边栏后展示的最大目录深度
     auto2top: true,
