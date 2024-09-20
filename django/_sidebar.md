@@ -1,0 +1,1 @@
+- [宝塔快速部署Django项目](/django/deploy)
