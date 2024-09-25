@@ -40,5 +40,9 @@ window.$docsify = {
     // 文本高亮插件
     'flexible-alerts': {
         style: 'callout' // flat
+    },
+    // 图片懒加载
+    lazyImage: {
+        placeholder: '/placeholder.png'
     }
 }
