@@ -1,3 +1,4 @@
 - **知识库**
-  - [智能抢课系统](/snatcher/snatcher-system)
+  - [抢课之谜](/select-course/preface)
+  - [智能抢课系统](/snatcher/introduce)
   - [Django](/django/deploy)

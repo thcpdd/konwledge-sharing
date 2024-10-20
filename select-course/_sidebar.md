@@ -1,0 +1,5 @@
+- [前言](/select-course/preface)
+- [网站知识小科普](/select-course/web-konwledge)
+- [抢课之谜](/select-course/mystery)
+- [抢课“小技巧”](/select-course/technique)
+- [用专业技能解放你的双手](/select-course/code-select)
